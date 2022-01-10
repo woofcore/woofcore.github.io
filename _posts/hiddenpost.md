@@ -5,4 +5,15 @@ permalink: /secret/hiddentest
 hidden: true
 ---
 
-this post should be hidden
+# Heading 1 
+## Heading 2
+### Heading 3
+
+this is a paragraph 
+
+```javascript
+var this = "javascript syntax highlighting";
+alert(this);
+```
+
+this is `inline syntax` owieufhoie
