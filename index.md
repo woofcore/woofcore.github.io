@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Me
+order: 1
 ---
 
-### THIS SHOULD BE THE HOME PAGE?
+This is now the homepage.
