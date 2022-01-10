@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About Me
+title: 
 order: 1
 ---
 
-This is now the homepage.
+awawadwa fw y  oOO Ueeueyftyu v
