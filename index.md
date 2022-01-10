@@ -4,8 +4,9 @@ title:
 order: 1
 ---
 
-awawadwa fw y  oOO Ueeueyftyu v
+Welcome to my website! 
 
+# Posts :-)
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
