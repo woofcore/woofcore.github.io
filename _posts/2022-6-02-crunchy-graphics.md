@@ -13,9 +13,9 @@ I define “Crunch” as being vaguely reminiscent of old PC-98 graphics. That i
 
 Take this random image: (credit: textures.com)
 
-![TexturesCom_LandscapesCityNight0015_2_M.jpg](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2a8ee074-db66-41c5-ab90-26267b4494fc/TexturesCom_LandscapesCityNight0015_2_M.jpg)
+![original image](/images/crunch_original.jpg)
 
-I use [Paint.NET](http://Paint.NET) because of its aforementioned lightweightness and simplicity. Plus, its free! 
+I use Paint.NET because of its aforementioned lightweightness and simplicity. Plus, its free! 
 
 I first resize the image using Nearest Neighbour interpolation.
 
