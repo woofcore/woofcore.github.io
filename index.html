@@ -1,18 +1,30 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+    </head>
+        <!-- grid -->
+        <div class="maingrid">
+            <div class="row toprow"><p>woofzone</p></div>
+            <div class="row midrow">
+                <div class="midouter"></div>
+                <div class="truemid">
+                    <p>hi this is temporary. as i try to make it look cooler here are some raw links to my other stuff:</p>
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+                    <a href="https://www.youtube.com/@woofcore">youtube</a>
+                    <a href="https://www.twitter.com/woofcore">twitter</a>
+                    <a href="https://www.artstation.com/woofcore">artstation</a>
+                    <a href="">linkedin</a>
+                    <a href="https://www.instagram.com/woof_core">instagram</a>
+                    <a href="https://github.com/woofcore">github</a>
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+                    <p style="font-size: 20px">i'm a multimedia artist from liverpool studying in dundee</p>
+                </div>
+                <div class="midouter"></div>
+            </div>
+            <div class="row botrow"></div>
+        </div>
+    <body>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
-
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+    </body>
+</html>
