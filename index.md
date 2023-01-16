@@ -1,6 +1,10 @@
 ---
-layout: default
+layout: page
+title: 
+order: 1
 ---
+
+Welcome to my website! 
 
 <div class="posts">
   {% for post in site.posts %}
