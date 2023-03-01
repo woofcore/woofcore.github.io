@@ -1,4 +1,4 @@
-@font-face { font-family: dogica; src: url('dogica.otf'); } 
+@font-face { font-family: dogica; src: url('./dogica.otf'); } 
 
 body {
     font-family: dogica;
