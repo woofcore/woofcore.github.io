@@ -1,0 +1,9 @@
+@font-face { font-family: dogica; src: url('dogica.otf'); } 
+
+body {
+    font-family: dogica;
+    font-size: 10px;
+
+    color: #ffffff;
+    background-color: #121212;
+}
